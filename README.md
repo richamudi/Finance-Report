@@ -1,4 +1,4 @@
-# Finance-Report-Dashboard
+# Finance-Report-in-Power-BI
 # Overview
 This dashboard provides a comprehensive overview of financial performance, including profit trends, regional distribution, and sales by product and segment. It leverages Power BI for interactive visualization and data analysis.# Features
 # Features
